@@ -7,7 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array<<"football"
+  sick_movies = ["taxi driver", "batman", "mad max", "the raid"]
+  sick_movies<<"pulp fiction"
 end
 
 def add_element_to_start_of_array(array, element)

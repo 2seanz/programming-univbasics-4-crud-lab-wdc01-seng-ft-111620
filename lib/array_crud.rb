@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   sick_movies = ["taxi driver", "batman", "mad max", "the raid"]
-  sick_movies<<"pulp fiction"
+  sick_movies<<"pulp_fiction"
 end
 
 def add_element_to_start_of_array(array, element)
